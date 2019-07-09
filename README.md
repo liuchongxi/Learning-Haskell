@@ -1,4 +1,4 @@
 # Learning-Haskell
 Learning Basic of Haskell
 
-- Implement some functions by using Haskell
+- Implement some functions using Haskell
